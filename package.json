@@ -1,0 +1,12 @@
+{
+  "name": "@p10node/arweave-examples",
+  "version": "0.1.0",
+  "description": "",
+  "author": "p10node",
+  "packageManager": "pnpm@10.13.1",
+  "dependencies": {
+    "@ar.io/sdk": "^3.15.1",
+    "@types/node": "^24.1.0",
+    "arweave": "^1.15.7"
+  }
+}
